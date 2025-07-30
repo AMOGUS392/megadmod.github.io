@@ -1,1 +1,1 @@
-# megadmod.github.io
+# megadmod
